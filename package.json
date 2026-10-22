@@ -1,0 +1,8 @@
+{
+  "name": "iraq-chat",
+  "version": "1.0.0",
+  "description": "Iraq Chat - شات العراق",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
